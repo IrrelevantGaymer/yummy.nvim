@@ -52,7 +52,7 @@ Commands
 
 ### Chapter and Total Word Count
 
-The word count of the current chapter (and the manuscript's total words) is displayed at the bottom status line.  The word count of the current chapter is also displayed in the outline panel.
+The word count of the current chapter (and the manuscript's total words) is displayed at the bottom status line.  The word count of the current chapter is also displayed in the outline panel.  Comments, Todos, Separators `* * *`, Block Quotes `> text`, Song Definitions `> song name - song artist`, and Chapter Definitions `# Chapter L` do not count towards any word count.
 
 ### Writing Text
 
@@ -74,6 +74,7 @@ Yummy Elements
 - YummySongName          : The Song Name within a Song Definition
 - YummySongArtist        : The Song Artist within a Song Definition
 - YummyTodo              : Todos
+- YummyComment           : Comments
 - YummySeparator         : Separator
 - YummyPunctuation       : Punctuation including en and em dashes
 - YummyPunctuationQuoted : Punctuation found inside quotes
