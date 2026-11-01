@@ -91,8 +91,8 @@ If this is too many features for you and you just want something a little more l
 
 ## TODO
 
-[] Better Buffer Formatting for Easier navigation??
-[] Support for Curly Quotes and Apostrophes??
-[] Add locations with a .yl file and corresponding color mappings
-[] Maybe add tabs to .yo files??
-[] Shrink or hide comments and shrink todos
+- [] Better Buffer Formatting for Easier navigation??
+- [] Support for Curly Quotes and Apostrophes??
+- [] Add locations with a .yl file and corresponding color mappings
+- [] Maybe add tabs to .yo files??
+- [] Shrink or hide comments and shrink todos
